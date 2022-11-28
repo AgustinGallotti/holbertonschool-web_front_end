@@ -1,0 +1,1 @@
+thiis a first read to th specialization of web stack 
