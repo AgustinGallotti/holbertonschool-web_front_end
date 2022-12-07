@@ -119,11 +119,12 @@ ul.row {
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
     color: var(--section-title-color);
-    margin-bottom: var(5rem);
 }
 
-.section-hero .section-inner {
-    padding: 10rem 40rem 2rem 0;
+
+
+.section-hero .section-title {
+    margin-bottom: 5rem;
 }
 
 .section {
@@ -237,6 +238,10 @@ ul.row {
     background-size: 1rem 1rem;
     width: 90rem;
     height: auto;
+}
+
+.section-hero .section-title {
+    margin: 5rem;
 }
 
 :root {
