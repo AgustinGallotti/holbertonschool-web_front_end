@@ -167,7 +167,7 @@ ul.row {
     padding: 0.5rem;
 }
 
-[class*="-1-"] {
+[class*="col-1-"] {
     all: revert;
 }
 
