@@ -163,7 +163,7 @@ ul.row {
     padding: 0.5rem;
 }
 
-.dark {
+[data-section-theme="dark"] {
     background-color: var(--color-black);
 }
 
