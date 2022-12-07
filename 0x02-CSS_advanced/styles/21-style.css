@@ -168,7 +168,7 @@ ul.row {
 }
 
 [class*="-1-"] {
-    all: unset;
+    all: revert;
 }
 
 :root {
