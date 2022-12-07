@@ -87,7 +87,7 @@ ul.row{
     background-color: var(--text-color);
 }
 
-ul .footer {
+ul.footer {
     text-align: right;
 }
 
