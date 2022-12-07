@@ -161,7 +161,7 @@ a:active {
     padding: 50vh;
 }
 
-.nav .nav-link:hover{
+.nav, .nav-link:hover{
     color: var(--nav-item-link-hover);
 }
 
