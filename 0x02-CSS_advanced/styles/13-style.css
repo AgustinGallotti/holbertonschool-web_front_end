@@ -26,13 +26,18 @@ a:link {
     font-style: italic;
 }
 
+a:visited {
+    font-style: italic;
+}
+
 a:hover {
     text-decoration: underline;
 }
 
-a:visited {
-    color: var(--color-light-grey);
+a:active {
+    background-color: var(--color-light-grey);
 }
+
 
 .visually-hidden {
     display: none;
