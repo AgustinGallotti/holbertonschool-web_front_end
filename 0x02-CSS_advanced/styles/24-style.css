@@ -185,13 +185,13 @@ ul.row {
     margin: 0;
 }
 
-.card-servicesa {
+a.card-services {
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
-.card-servicesa:hover {
+a:hover.card-services {
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
