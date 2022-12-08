@@ -304,13 +304,13 @@ ul.row {
     position: relative;
 }
 
-.card-work .card-title a{
+.card-work .card-titlea{
     display: block;
     text-decoration: none;
     padding-top: 45%;
 }
 
-.card-work .card-title a::after {
+.card-work .card-titlea::after {
     position: absolute;
     top: 0;
     right: 0;
