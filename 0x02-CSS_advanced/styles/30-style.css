@@ -272,7 +272,7 @@ ul.row {
     left: var(--header-logo-link-left);
 }
 
-.card-work .card-outer {
+.card-outer .card-work{
     position: relative;
     overflow: hidden;
 }
