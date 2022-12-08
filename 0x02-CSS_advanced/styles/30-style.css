@@ -272,7 +272,7 @@ ul.row {
     left: var(--header-logo-link-left);
 }
 
-.card-outer .card-work{
+.card-work .card-outer {
     position: relative;
     overflow: hidden;
 }
@@ -304,8 +304,17 @@ ul.row {
     position: relative;
 }
 
+.card-work .card-title a::before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    content: "";
+}
+
 .card-work:hover .card-title {
-    opacity: 1%;
+    opacity: 1;
 }
 
 :root {
