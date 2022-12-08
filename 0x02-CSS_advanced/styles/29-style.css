@@ -174,7 +174,6 @@ ul.row {
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
     background-color: var(--color-primary);
-    width: 100%;
 }
 
 .nav .nav-link {
@@ -191,6 +190,7 @@ ul.row {
 
 .nav .nav-link:hover{
     color: var(--nav-item-link-hover);
+    width: 100%;
 }
 
 [class*="col-"] {
