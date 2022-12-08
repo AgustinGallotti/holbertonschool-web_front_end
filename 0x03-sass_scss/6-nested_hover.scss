@@ -1,0 +1,9 @@
+/* Hover to nested tags */
+$text-color: #3D3D3D;
+$color-hover: #00FF00;
+button {
+	color: $text-color;
+	&:hover {
+	color: $color-hover;
+	}
+}
