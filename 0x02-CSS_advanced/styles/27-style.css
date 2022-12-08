@@ -121,12 +121,6 @@ ul.row {
     color: var(--section-title-color);
 }
 
-
-
-.section-hero .section-title {
-    margin-bottom: 5rem;
-}
-
 .section {
     padding: var(--section-padding);
 }
