@@ -193,6 +193,7 @@ ul.row {
 
 .nav .nav-item .nav-link::before {
     background-color: var(--color-primary);
+    width: 100%;
 }
 
 .nav .nav-link:hover{
