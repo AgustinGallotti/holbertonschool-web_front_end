@@ -14,3 +14,11 @@ def canUnlockAll(boxes):
     if len(key) == len(boxes):
         return True
     return False
+
+    for n in key:
+        for correct in boxes[n]:
+            if correct not in key and correct < len(boxes):
+                key.append(correct)
+    if len(key) == len(boxes):
+        return True
+    return False
