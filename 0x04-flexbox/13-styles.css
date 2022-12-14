@@ -555,6 +555,7 @@
   .main-article {
     padding: 5rem 0;
   }
+
 /* Post
     ============================= */
     .post {
@@ -569,6 +570,7 @@
         order: -1;
         min-width: 20%;
     }
+
 /* Post Meta
     ============================= */
     .post-meta-class {
@@ -592,6 +594,7 @@
         border: none;
         margin-bottom: 3rem;
     }
+
 /* Tag list
     ============================= */
     .tag-list {
