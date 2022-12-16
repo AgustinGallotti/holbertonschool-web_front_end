@@ -98,16 +98,6 @@
   /* Base
       ============================= */
   
-  .button-primary {
-    color: var(--color-white);
-    background: var(--color-primary);
-  }
-
-  .button-primary:hover {
-    color: var(--color-primary);
-    background: var(--color-white);
-  }
-  
   *, *:before, *:after {
     box-sizing: border-box;
   }
@@ -162,6 +152,16 @@
     background: var(--button-hover-background);
     transition-duration: var(--transition-duration);
     transition-property: color, background-color;
+  }
+
+  .button-primary {
+    color: var(--color-white);
+    background: var(--color-primary);
+  }
+
+  .button-primary:hover {
+    color: var(--color-primary);
+    background: var(--color-white);
   }
   
   /* Helpers
